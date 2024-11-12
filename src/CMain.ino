@@ -10,8 +10,8 @@ CServo _servo_1(6);
 CServo _servo_2(7);
 
 // Infrared Sensor
-int const maxObjDetectDist = 30;//cm
-int const minObjDetectDist = 15;//cm
+int const maxObjDetectDist = 30; // cm
+int const minObjDetectDist = 15; // cm
 bool isObjectDetected = false;
 CSensor sensor(11, 9, 10,2,13);
 
