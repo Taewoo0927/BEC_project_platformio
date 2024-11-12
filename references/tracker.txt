@@ -1,0 +1,9 @@
+2024-11-11
+Completed:
+    We transfered to PlatformIO and added a VISIO flowchart representing the program.
+    We also integrated GITHUB to our project!
+
+To Do List:
+    Complete detailed flowchart with RTOS and ISRs
+    Integrate ISRs and RTOS to code
+    Test new RC Car code with RTOS & ISRs
