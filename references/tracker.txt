@@ -4,9 +4,11 @@ Completed:
     We also integrated GITHUB to our project!
 
 To Do List:
-    Complete detailed flowchart with RTOS and ISRs
+    Complete detailed flowchart with RTOS and ISRs [✔]
     Integrate ISRs and RTOS to code
     Test new RC Car code with RTOS & ISRs
 
 
 2024-11-12
+Completed:
+    Created flowchart with RTOS and ISRs
