@@ -5,10 +5,17 @@ Completed:
 
 To Do List:
     Complete detailed flowchart with RTOS and ISRs [✔]
-    Integrate ISRs and RTOS to code
-    Test new RC Car code with RTOS & ISRs
+    Integrate ISRs and RTOS to code [X]
+    Test new RC Car code with RTOS & ISRs [X]
 
 
 2024-11-12
 Completed:
     Created flowchart with RTOS and ISRs
+    learned about RTOS (Priorities and how to make tasks)
+
+To Do List:
+    Try implementing RTOS into our code
+        - Timing chart
+        - Create 4 tasks with 5th task (loop) as controller
+        - Test new code
